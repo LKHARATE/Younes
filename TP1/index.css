@@ -1,0 +1,33 @@
+h1{
+    color: yellow;
+    font-size: 80px;
+}
+h1:hover{
+    color: bisque;
+    cursor: pointer;
+}
+p{
+    color: black;
+    font-size: 60px;
+}
+span{
+    color: black;
+    font-size: 80px;
+}
+img{
+    border-radius: 50%;
+}
+
+
+.divhome{
+    display: flex;
+    flex-direction: row;
+    
+    gap: 30%;
+}
+
+
+.h2divhome{
+    display: flex;
+    justify-content: space-between;
+}
